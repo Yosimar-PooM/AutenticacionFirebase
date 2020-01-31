@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutenticacionFirebase</string>
+    <string name="enter_email">Escriba un Correo</string>
+    <string name="enter_password">Escriba una Contrsseñs</string>
+    <string name="registrar">Registrar</string>
+    <string name="login">Loguearse</string>
+</resources>
